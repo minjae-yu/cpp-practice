@@ -36,10 +36,25 @@
     <ClCompile Include="pointervsarray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="class.cpp">
+    <ClCompile Include="class2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="class2.cpp">
+    <ClCompile Include="classandiostreamoverloading.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="strings%28hackerrank%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="structs(hackerrank).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="class(hackerrank).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="classesandobjects(hackerrank).cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="boxit(hackerrank).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
