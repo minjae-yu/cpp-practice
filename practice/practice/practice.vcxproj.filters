@@ -57,7 +57,10 @@
     <ClCompile Include="boxit(hackerrank).cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="dkjohji.cpp">
+    <ClCompile Include="basicdatatypes%28hackerrank%29.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="conditionalstatements%28hackerrank%29.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
