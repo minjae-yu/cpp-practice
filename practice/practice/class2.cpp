@@ -35,13 +35,15 @@ public:
 		max_speed = ms;
 	}
 
-	void PrintCurrentStatus()
-	{
-		std::cout << "The Car's wheel number : " << wheel_num << std::endl;
-		std::cout << "The Car's current speed : " << speed << "km/h" << std::endl;
-		std::cout << "The Car's max speed : " << max_speed << "km/h" << std::endl;
-	}
+	void PrintCurrentStatus();
 };
+
+void Car::PrintCurrentStatus()
+{
+	std::cout << "The Car's wheel number : " << wheel_num << std::endl;
+	std::cout << "The Car's current speed : " << speed << "km/h" << std::endl;
+	std::cout << "The Car's max speed : " << max_speed << "km/h" << std::endl;
+}
 
 int main()
 {
